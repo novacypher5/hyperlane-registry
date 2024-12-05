@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../schema.json
+chainId: 9700
+displayName: Oorttesnet
+domainId: 9700
+isTestnet: true
+name: oorttesnet
+nativeToken:
+  decimals: 18
+  name: OORT
+  symbol: OORT
+protocol: ethereum
+rpcUrls:
+  - http: https://dev-rpc.oortech.com
